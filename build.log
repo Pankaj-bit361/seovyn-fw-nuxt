@@ -1,0 +1,114 @@
+
+> build
+> nuxi generate
+
+┌  Building Nuxt for production...
+│
+●  Nuxt 3.21.11 (with Nitro 2.13.4, Vite 7.3.6 and Vue 3.5.43)
+│
+●  Nitro preset: static
+ℹ Building client...
+ℹ vite v7.3.6 building client environment for production...
+ℹ transforming...
+ℹ ✓ 289 modules transformed.
+ℹ rendering chunks...
+ℹ computing gzip size...
+ℹ .nuxt/dist/client/manifest.json                  19.89 kB │ gzip:  1.85 kB
+ℹ .nuxt/dist/client/_nuxt/ProsePre.B_fgAJq0.css     0.05 kB │ gzip:  0.07 kB
+ℹ .nuxt/dist/client/_nuxt/error-500.I1Dtv2V5.css    1.88 kB │ gzip:  0.72 kB
+ℹ .nuxt/dist/client/_nuxt/error-404.DL_4WIao.css    3.53 kB │ gzip:  1.09 kB
+ℹ .nuxt/dist/client/_nuxt/BenumQ2D.js               0.08 kB │ gzip:  0.08 kB
+ℹ .nuxt/dist/client/_nuxt/D0HfmKf5.js               0.14 kB │ gzip:  0.14 kB
+ℹ .nuxt/dist/client/_nuxt/DF1peN60.js               0.14 kB │ gzip:  0.12 kB
+ℹ .nuxt/dist/client/_nuxt/BD2z3aQ9.js               0.15 kB │ gzip:  0.15 kB
+ℹ .nuxt/dist/client/_nuxt/CgdCT-iJ.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/CXrN45yu.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/CwZ7fQsT.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/tTxu4ek7.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/BqfN2XYP.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/Cv0t3t7J.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/1-gr5vNt.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/CP0aKRtz.js               0.18 kB │ gzip:  0.16 kB
+ℹ .nuxt/dist/client/_nuxt/lgrk7_RW.js               0.18 kB │ gzip:  0.17 kB
+ℹ .nuxt/dist/client/_nuxt/CafbNi1u.js               0.18 kB │ gzip:  0.17 kB
+ℹ .nuxt/dist/client/_nuxt/BFhnuPKM.js               0.18 kB │ gzip:  0.17 kB
+ℹ .nuxt/dist/client/_nuxt/Bxz0T8ea.js               0.18 kB │ gzip:  0.17 kB
+ℹ .nuxt/dist/client/_nuxt/CXgahGY-.js               0.18 kB │ gzip:  0.17 kB
+ℹ .nuxt/dist/client/_nuxt/CCxDj22W.js               0.19 kB │ gzip:  0.17 kB
+ℹ .nuxt/dist/client/_nuxt/DMclQVsL.js               0.25 kB │ gzip:  0.19 kB
+ℹ .nuxt/dist/client/_nuxt/Dh3JYOle.js               0.28 kB │ gzip:  0.23 kB
+ℹ .nuxt/dist/client/_nuxt/CkC4djNU.js               0.32 kB │ gzip:  0.22 kB
+ℹ .nuxt/dist/client/_nuxt/D9OfgKNv.js               0.33 kB │ gzip:  0.26 kB
+ℹ .nuxt/dist/client/_nuxt/DOZupxHe.js               0.39 kB │ gzip:  0.28 kB
+ℹ .nuxt/dist/client/_nuxt/CMdwMaR2.js               0.44 kB │ gzip:  0.32 kB
+ℹ .nuxt/dist/client/_nuxt/DdUkG9xA.js               0.49 kB │ gzip:  0.33 kB
+ℹ .nuxt/dist/client/_nuxt/DNX29Yxy.js               0.49 kB │ gzip:  0.33 kB
+ℹ .nuxt/dist/client/_nuxt/5aojbTy2.js               0.50 kB │ gzip:  0.34 kB
+ℹ .nuxt/dist/client/_nuxt/BrpsbBRU.js               0.50 kB │ gzip:  0.34 kB
+ℹ .nuxt/dist/client/_nuxt/D6oSSSFS.js               0.50 kB │ gzip:  0.34 kB
+ℹ .nuxt/dist/client/_nuxt/DimtAByq.js               0.50 kB │ gzip:  0.34 kB
+ℹ .nuxt/dist/client/_nuxt/BNSn_xqX.js               0.50 kB │ gzip:  0.34 kB
+ℹ .nuxt/dist/client/_nuxt/xubdOEb0.js               0.57 kB │ gzip:  0.37 kB
+ℹ .nuxt/dist/client/_nuxt/Cwo6IJeM.js               0.61 kB │ gzip:  0.37 kB
+ℹ .nuxt/dist/client/_nuxt/DkTT94FC.js               0.68 kB │ gzip:  0.37 kB
+ℹ .nuxt/dist/client/_nuxt/B2ukyGiq.js               0.72 kB │ gzip:  0.38 kB
+ℹ .nuxt/dist/client/_nuxt/BSZFgSs5.js               0.74 kB │ gzip:  0.40 kB
+ℹ .nuxt/dist/client/_nuxt/AHGJbZPN.js               0.74 kB │ gzip:  0.44 kB
+ℹ .nuxt/dist/client/_nuxt/BGZ8fUf3.js               0.77 kB │ gzip:  0.51 kB
+ℹ .nuxt/dist/client/_nuxt/DMq1DMYS.js               0.83 kB │ gzip:  0.46 kB
+ℹ .nuxt/dist/client/_nuxt/BWbE9rhr.js               1.02 kB │ gzip:  0.56 kB
+ℹ .nuxt/dist/client/_nuxt/B8IaAclc.js               1.09 kB │ gzip:  0.52 kB
+ℹ .nuxt/dist/client/_nuxt/DTRYmUS0.js               1.10 kB │ gzip:  0.67 kB
+ℹ .nuxt/dist/client/_nuxt/DdEZcjO6.js               1.77 kB │ gzip:  0.88 kB
+ℹ .nuxt/dist/client/_nuxt/Cxp2YPkx.js               2.16 kB │ gzip:  1.12 kB
+ℹ .nuxt/dist/client/_nuxt/Dvg3LJS9.js               2.32 kB │ gzip:  0.97 kB
+ℹ .nuxt/dist/client/_nuxt/kjNIVfXv.js               3.39 kB │ gzip:  1.53 kB
+ℹ .nuxt/dist/client/_nuxt/DXzqwJdR.js               3.76 kB │ gzip:  1.71 kB
+ℹ .nuxt/dist/client/_nuxt/DmW6SLTx.js               5.71 kB │ gzip:  2.27 kB
+ℹ .nuxt/dist/client/_nuxt/DlEab8e5.js               8.67 kB │ gzip:  3.54 kB
+ℹ .nuxt/dist/client/_nuxt/DB4O_wNC.js              20.31 kB │ gzip:  8.11 kB
+ℹ .nuxt/dist/client/_nuxt/BVM8AOaY.js              22.26 kB │ gzip:  8.89 kB
+ℹ .nuxt/dist/client/_nuxt/B85XBWPa.js              24.12 kB │ gzip:  8.63 kB
+ℹ .nuxt/dist/client/_nuxt/CXQS2iYu.js             190.08 kB │ gzip: 70.25 kB
+ℹ ✓ built in 1.42s
+✔ Client built in 1433ms
+ℹ Building server...
+ℹ vite v7.3.6 building ssr environment for production...
+ℹ transforming...
+ℹ ✓ 200 modules transformed.
+ℹ rendering chunks...
+ℹ ✓ built in 674ms
+✔ Server built in 683ms
+[nitro] ℹ Initializing prerenderer
+[nitro] ℹ Prerendering 5 initial routes with crawler
+[nitro]   ├─ /200.html (69ms)
+[nitro]   ├─ /404.html (68ms)
+[nitro]   ├─ /sitemap.xml (116ms)
+[nitro]   ├─ /api/_content/cache.1791068914606.json (117ms)
+[nitro]   ├─ / (119ms)
+[nitro]   ├─ /seovyn-fw-nuxt/_payload.json?_b=11587b81-7e54-4721-bb2c-bfd3fc4bdfe9 (35ms) (skipped)
+[nitro]   ├─ /_payload.json (36ms)
+[nitro]   ├─ /seovyn-fw-nuxt/about/ (50ms)
+[nitro]   ├─ /seovyn-fw-nuxt/about/_payload.json?_b=11587b81-7e54-4721-bb2c-bfd3fc4bdfe9 (2ms) (skipped)
+[nitro]   ├─ /about (50ms)
+[nitro]   ├─ /api/_content/query/jDltPkV4RP.1791068914606.json (52ms)
+[nitro]   ├─ /seovyn-fw-nuxt/blog/watering-plants-in-a-heatwave/ (51ms)
+[nitro]   ├─ /seovyn-fw-nuxt/blog/watering-plants-in-a-heatwave/_payload.json?_b=11587b81-7e54-4721-bb2c-bfd3fc4bdfe9 (1ms) (skipped)
+[nitro]   ├─ /about/_payload.json (2ms)
+[nitro]   ├─ /seovyn-fw-nuxt/blog/growing-basil-on-a-balcony/ (52ms)
+[nitro]   ├─ /seovyn-fw-nuxt/blog/growing-basil-on-a-balcony/_payload.json?_b=11587b81-7e54-4721-bb2c-bfd3fc4bdfe9 (2ms) (skipped)
+[nitro]   ├─ /blog/watering-plants-in-a-heatwave/_payload.json (2ms)
+[nitro]   ├─ /api/_content/query/4cxIjA8OeZ.1791068914606.json (2ms)
+[nitro]   ├─ /seovyn-fw-nuxt/blog/ (66ms)
+[nitro]   ├─ /blog/growing-basil-on-a-balcony/_payload.json (2ms)
+[nitro]   ├─ /api/_content/query/qKU4ZYnANA.1791068914606.json (2ms)
+[nitro]   ├─ /seovyn-fw-nuxt/blog/_payload.json?_b=11587b81-7e54-4721-bb2c-bfd3fc4bdfe9 (2ms) (skipped)
+[nitro]   ├─ /seovyn-fw-nuxt/ (66ms)
+[nitro]   ├─ /blog (66ms)
+[nitro]   ├─ /blog/_payload.json (1ms)
+[nitro]   ├─ /api/_content/query/FEQFRxf56f.1791068914606.json (3ms)
+[nitro] ℹ Prerendered 21 routes in 1.586 seconds
+[nitro] ✔ Generated public .output/public
+[nitro] ✔ You can preview this build using npx serve .output/public
+│
+└  ✨ You can now deploy .output/public to any static hosting!

@@ -1,0 +1,30 @@
+{
+  "name": "Bloom & Root Nursery",
+  "tagline": "Houseplants, patio plants and garden advice in Seattle",
+  "home": [
+    "Bloom & Root is a neighborhood plant nursery in Ballard, Seattle. We sell houseplants, herbs, vegetable starts, pots and organic soil.",
+    "Every plant comes with a care card that tells you how much light and water it needs. We deliver across Seattle."
+  ],
+  "about": [
+    "We grow most of our vegetable starts ourselves in the greenhouse behind the shop.",
+    "We don't sell chemical fertilizers; our compost is made on site."
+  ],
+  "posts": [
+    {
+      "slug": "growing-basil-on-a-balcony",
+      "title": "Growing basil on a balcony",
+      "description": "How to keep balcony basil bushy and green all summer.",
+      "date": "2026-08-14",
+      "body": "Basil needs at least six hours of direct sun. A south- or west-facing balcony is ideal.\n\n## Pot and soil\n\nUse an eight-inch pot with drainage and a light potting mix with compost.\n\n## Watering\n\nWater when the top inch of soil is dry. Wet roots rot.\n\n## Pinch the flowers\n\nPinch off flower buds as soon as they appear so the plant keeps making leaves."
+    },
+    {
+      "slug": "watering-plants-in-a-heatwave",
+      "title": "Watering plants in a heatwave",
+      "description": "Keep potted plants alive when temperatures spike.",
+      "date": "2026-09-02",
+      "body": "The most common mistake in a heatwave is watering at midday, when water evaporates before it reaches the roots.\n\n## Water early\n\nWater in the first two hours after sunrise.\n\n## Mulch\n\nA layer of bark or straw on top of the soil keeps moisture in.\n\n## Check with a finger\n\nPush a finger an inch into the soil. Water only if it's dry there too."
+    }
+  ],
+  "url": "https://pankaj-bit361.github.io/seovyn-fw-nuxt",
+  "base": "/seovyn-fw-nuxt"
+}
